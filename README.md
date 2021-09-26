@@ -1,5 +1,7 @@
 # Webots-Autonomous-Mobile-Robot
 
+ ![](Images/RobotDesign.png)
+ 
 ## Introduction
 
 This repository includes all the project files related to the development of an Autonomous mobile robot using the [WEBOTS simulation platform](https://cyberbotics.com/).  The given [tutorials](https://cyberbotics.com/doc/guide/tutorials) can be useful for beginners.
