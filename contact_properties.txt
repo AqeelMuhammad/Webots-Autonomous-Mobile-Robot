@@ -1,0 +1,7 @@
+a. Contact material 01 name: default
+b. Contact material 02 name: Wheel
+c. CoulombFriction value: 2
+
+d. Contact material 01 name: default
+e. Contact material 02 name: gripCircle
+f. CoulombFriction value: 2
