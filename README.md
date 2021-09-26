@@ -6,6 +6,10 @@
 
 This repository includes all the project files related to the development of an Autonomous mobile robot using the [WEBOTS simulation platform](https://cyberbotics.com/).  The given [tutorials](https://cyberbotics.com/doc/guide/tutorials) can be useful for beginners.
 
+## Wiring Diagram of the Robot
+
+![](Images/WiringDiagram.png)
+
 ## Team
 
 The project is being done by a team of 5 undergraduates at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. Details of the team members can be found below.
