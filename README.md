@@ -12,6 +12,10 @@ A screenshot of the final simulation test result is given below. A quick run of 
 
 ![](Images/FInalTestRoundResult.png)
 
+## Final Competition Performance
+
+![](Videos/Simulation_video.gif)
+
 ## Wiring Diagram of the Robot
 
 ![](Images/WiringDiagram.png)
