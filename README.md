@@ -8,12 +8,11 @@ This repository includes all the project files related to the development of an 
 
 The project is being done by a team of 5 undergraduates at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. Details of the team members can be found below.
 
-Team Leader
+#### Team Leader
 
 [Laksara Thilakarathna](https://github.com/LaksaraThilakarathna)
 
-Group Members
-
+#### Group Members
 1. [Muhammad Aqeel](https://github.com/AqeelMuhammad)
 1. [Tharuka Nilupul](https://github.com/TharukaN17)
 1. [Tharindu Wijesinghe](https://github.com/Tharindu531)
