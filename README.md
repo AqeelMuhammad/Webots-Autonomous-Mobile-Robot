@@ -14,7 +14,7 @@ A screenshot of the final simulation test result is given below.
 
 ## Final Competition Performance
 
-Complete run can be viewed at [here](Videos/Team_NOTA-Final_Performance.mp4).
+Below you can see a speed up run. The complete run can be viewed at [here](Videos/Team_NOTA-Final_Performance.mp4).
 
 ![](Videos/Simulation_video.gif)
 
