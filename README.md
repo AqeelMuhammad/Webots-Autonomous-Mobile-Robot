@@ -18,6 +18,8 @@ Below you can see a speed up run. The complete run can be viewed at [here](Video
 
 ![](Videos/Simulation_video.gif)
 
+[Click here](https://youtu.be/Hyt3yWE_DQ0) to see the above video
+
 ## Wiring Diagram of the Robot
 
 ![](Images/WiringDiagram.png)
